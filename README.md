@@ -9,6 +9,6 @@ Have you ever wondered which is the best hotel to book that is good with both pr
 
 The booking rate for booking hotels online is high among the most popular cities in the world that creates discomfort for many hotels to know the expectations of customer accurately, if any factor affects the customer the most which leads them to finalize the booking, so hotel create a desire to take precautions based on price and review score. Therefore, predicting the price and review score based on the hotel available options create better understanding to the staff of hotel what are required features needs to be added to the hotel property. 
 
-What if you wanted to predict whether a hotel was likely to receive a good review scoring by getting better user ratings? This hotel booking dataset can help you explore those questions! This data set contains booking information for a city hotel and includes information such as user ratings, location, price, and the number of reviews available that can guide customer before booking is confirmed. 
+What if you wanted to predict whether a hotel was likely to receive a good review scoring ? This hotel booking dataset can help you explore those questions! This data set contains booking information for a city hotel and includes information such as user ratings, location, price, and the number of reviews available that can guide customer before booking is confirmed. 
 In my final project, I will try to explore the dataset and explain how to predict future price and review score of the hotel by machine learning methods.
 
